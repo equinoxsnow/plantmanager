@@ -2,7 +2,7 @@ import React, {useState} from 'react';
 import {SafeAreaView, Text, Image, TouchableOpacity, StyleSheet} from 'react-native';
 import {Button} from '../components/Button'
 
-import wateringImg from '../pages/assets/watering.png'
+import wateringImg from '../assets/watering.png'
 import colors from '../styles/colors';
 
 export function Welcome(){
