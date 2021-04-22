@@ -27,10 +27,6 @@ export function Welcome(){
             </Text>
 
             <Button title = '>'/>
-
-
-
-            
         </SafeAreaView>
     )
 }
